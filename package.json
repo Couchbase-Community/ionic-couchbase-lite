@@ -1,6 +1,6 @@
 {
   "name": "@couchbase-community/ionic-couchbase-lite",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Integration for Couchbase Lite (2.x+) in Ionic enterprise apps",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -59,9 +59,6 @@
     "rollup": "^2.32.0",
     "swiftlint": "^1.0.1",
     "typescript": "~4.1.5"
-  },
-  "dependencies": {
-    "@ionic-enterprise/capacitor-windows": "^5.0.0"
   },
   "peerDependencies": {
     "@capacitor/core": "^5.0.0"
