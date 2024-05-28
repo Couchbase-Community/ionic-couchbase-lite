@@ -54,7 +54,7 @@ import {
   SelectResult,
   URLEndpoint,
   ValueIndexItem,
-} from '@ionic-enterprise/couchbase-lite';
+} from '@couchbase-community/ionic-couchbase-lite';
 
 const assert = (v, msg = '', expecting = null, received = null) => {
   console.log('%c[TEST] %s', 'color: #e8c93c; font-weight: bold', msg);
