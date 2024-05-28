@@ -1,6 +1,6 @@
 {
-  "name": "@praisecharts/couchbase-lite",
-  "version": "6.0.0",
+  "name": "@couchbase-community/ionic-couchbase-lite",
+  "version": "6.0.1",
   "description": "Integration for Couchbase Lite (2.x+) in Ionic enterprise apps",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -18,10 +18,10 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/enterprise-couchbase-lite.git"
+    "url": "git+https://github.com/couchbase-community/ionic-couchbase-lite.git"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/enterprise-couchbase-lite/issues"
+    "url": "https://github.com/couchbase-community/ionic-couchbase-lite/issues"
   },
   "keywords": [
     "capacitor",

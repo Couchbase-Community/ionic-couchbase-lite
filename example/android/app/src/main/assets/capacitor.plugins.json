@@ -1,6 +1,6 @@
 [
 	{
-		"pkg": "@ionic-enterprise/couchbase-lite",
+		"pkg": "@couchbase-community/ionic-couchbase-lite",
 		"classpath": "io.ionic.enterprise.couchbaselite.IonicCouchbaseLitePlugin"
 	}
 ]

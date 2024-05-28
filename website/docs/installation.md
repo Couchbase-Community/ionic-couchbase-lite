@@ -13,10 +13,10 @@ Ionic's Couchbase Lite integration requires Capacitor 3.0 or above, and is _not_
 
 ## Installation
 
-To get started, install the `@ionic-enterprise/couchbase-lite` package into your Ionic/Capacitor app:
+To get started, install the `@couchbase-community/ionic-couchbase-lite` package into your Ionic/Capacitor app:
 
 ```shell
-npm install @ionic-enterprise/couchbase-lite
+npm install @couchbase-community/ionic-couchbase-lite
 ```
 
 ## Android: Add Maven Repo

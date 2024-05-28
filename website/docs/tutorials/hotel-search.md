@@ -35,7 +35,7 @@ npx capacitor add android
 With the application setup, it's time to add the Couchbase Lite solution:
 
 ```shell
-npm install @ionic-enterprise/couchbase-lite
+npm install @couchbase-community/ionic-couchbase-lite
 npx cap sync
 ```
 
@@ -67,7 +67,7 @@ import {
   Database,
   DatabaseConfiguration,
   MutableDocument
-} from '@ionic-enterprise/couchbase-lite';
+} from '@couchbase-community/ionic-couchbase-lite';
 import { Hotel } from '../models/hotel';
 
 @Injectable({

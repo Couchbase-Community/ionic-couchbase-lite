@@ -5,7 +5,7 @@ sidebar_label: Usage
 
 # Getting Started
 
-After installing the plugin, import `@ionic-enterprise/couchbase-lite` into the desired class (A dedicated service class that encapsulates Couchbase Lite logic is recommended).
+After installing the plugin, import `@couchbase-community/ionic-couchbase-lite` into the desired class (A dedicated service class that encapsulates Couchbase Lite logic is recommended).
 
 ```typescript
 import {
@@ -30,7 +30,7 @@ import {
   ArrayFunction,
   PropertyExpression,
   Join,
-} from '@ionic-enterprise/couchbase-lite';
+} from '@couchbase-community/ionic-couchbase-lite';
 ```
 
 Next, initialize the database:

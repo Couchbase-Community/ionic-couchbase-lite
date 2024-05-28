@@ -1,11 +1,11 @@
-# @ionic-enterprise/couchbase-lite
+# @couchbase-community/ionic-couchbase-lite
 
-Integration for Couchbase Lite in Ionic enterprise apps
+Integration for Couchbase Lite in Ionic apps
 
 ## Install
 
 ```bash
-npm install @ionic-enterprise/couchbase-lite
+npm install @couchbase-community/ionic-couchbase-lite
 npx cap sync
 ```
 
